@@ -1,6 +1,6 @@
 # philosophers 🍽️
 
-![Preview](https://github.com/abdo-skhairi/so_long/blob/main/game_image.png?raw=true)
+![Preview](https://github.com/abdo-skhairi/philoshophers/blob/main/Pholosophers.png)
 A concurrency-based simulation of the famous Dining Philosophers Problem, implemented in C using threads and mutexes.
 
 [🔗 GitHub Repository](https://github.com/abdo-skhairi/philoshophers.git)
