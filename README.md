@@ -23,6 +23,23 @@ The project’s main goal is to teach students how to:
 
 ---
 
+## 📦 Installation
+
+### Requirements
+
+* GCC or Clang
+* Make
+* Unix-like environment (Linux/macOS)
+
+### Setup
+
+```bash
+git clone https://github.com/abdo-skhairi/philoshophers.git
+cd philoshophers
+make
+```
+
+
 ## 🧪 How It Operates
 
 Each philosopher functions as a thread and performs the following cyclical tasks:
